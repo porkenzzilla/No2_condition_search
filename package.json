@@ -1,0 +1,18 @@
+{
+  "name": "no2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "condition-search": "bin/conditionSearch.js"
+  },
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "description": "This is a console program for finding data on specified conditions."
+}
